@@ -6,7 +6,7 @@ public class Calculadora {
 
         double resultado = num1 + num2;
 
-        System.out.println(num1 +""+num2 +"" + resultado);
+        System.out.println(num1 +"teste"+num2 +"" + resultado);
 
     }
 }
