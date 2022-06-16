@@ -16,4 +16,12 @@ public class Calculadora {
         System.out.println("A subtração dos números " + num1 +" e "+num2 +" tem o resultado de " + resultado);
 
     }
+
+    public  static  void  multiplicacao(double num1, double num2){
+        double resultado = num1 * num2;
+
+        System.out.println("A multiplicação dos númetos " + num1 + " e " + num2 + " tem o resultado de " +resultado);
+    }
+
+
 }
